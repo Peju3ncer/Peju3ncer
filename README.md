@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Yo, I'm <a href="https://github.com/Peju3ncer">4RB1X</a></h1>
+  <h1>👋 Yo, I'm <a href="https://github.com/Peju3ncer">Peju3ncer</a></h1>
   <h3>🧠 Developer Gabut | 💻 Fullstack Enthusiast | 🌍 From Indonesia</h3>
 </div>
 
@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/Peju3ncer">
-    <img height="200" src="https://img.shields.io/badge/⚡_4RB1X_⚡-GitHub-blueviolet?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img height="200" src="https://img.shields.io/badge/⚡_Peju3ncer_⚡-GitHub-blueviolet?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 4RB1X | 💻 Fullstack Learner | 😎 Hacker Chill Mode</h3>
+  <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Peju3ncer | 💻 Fullstack Learner | 😎 Hacker Chill Mode</h3>
 </div>
 
 <p align="center">

@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/Peju3ncer">
-    <img height="120" src="https://img.shields.io/badge/GitHub-4RB1X-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img height="200" src="https://img.shields.io/badge/GitHub-4RB1X-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2lsN2F3OTBsOXVtZ2Q0eXhmM2prOGZ4a3ZrOWYwb2gwbDY5cjZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YBHJyPCU9h1VewdaPZ/giphy.gif" width="28"> 4RB1X | 💻 Fullstack Learner | 😎 Hacker Chill Mode</h3>
+  <h3><img src="https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z" width="28"> 4RB1X | 💻 Fullstack Learner | 😎 Hacker Chill Mode</h3>
 </div>
 
 <p align="center">

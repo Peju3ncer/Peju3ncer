@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Peju3ncer">
-    <img height="60" src="https://img.shields.io/badge/GitHub-4RB1X-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img height="120" src="https://img.shields.io/badge/GitHub-4RB1X-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 

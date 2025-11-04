@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Peju3ncer">
-    <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub">
+    <img height="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub">
   </a>
 </p>
 

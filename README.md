@@ -1,4 +1,8 @@
-<a href="https://freeimage.host/i/KQemXeI"><img src="https://iili.io/KQemXeI.md.png" alt="KQemXeI.md.png" border="0"></a>
+<div align="center">
+  <a href="https://freeimage.host/i/KQemXeI">
+    <img src="https://iili.io/KQemXeI.md.png" alt="Foxy Banner" border="0">
+  </a>
+</div>
 ___
 <div align="center">
   <h1>👋 Yo, I'm <a href="https://github.com/Peju3ncer">Peju3ncer</a></h1>
